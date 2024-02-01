@@ -1,3 +1,5 @@
 main(List<String> args) {
-  print("hello world");
+  String ad = "metin";
+
+  print(ad);
 }
